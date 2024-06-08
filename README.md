@@ -32,7 +32,7 @@ Make sure you have the following tools installed on your system:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/host-discovery.git
+    git clone https://github.com/PAARTHARNAZ/Ping-Prowler.git
     ```
 
 2. Change into the project directory:
