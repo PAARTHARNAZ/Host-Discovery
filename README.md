@@ -38,7 +38,7 @@ Make sure you have the following tools installed on your system:
 2. Change into the project directory:
 
     ```sh
-    cd host-discovery
+    cd Ping-Prowler
     ```
 
 ## Usage
@@ -46,7 +46,7 @@ Make sure you have the following tools installed on your system:
 1. Run the main script:
 
     ```sh
-    python main.py
+    python Ping_Prowler.py
     ```
 
 2. Follow the on-screen menu to choose the type of scan you want to perform.
